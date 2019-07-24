@@ -1,2 +1,0 @@
-# react-books
-class work
